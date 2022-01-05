@@ -1,4 +1,4 @@
-rootProject.name = "kotlin-mpp"
+rootProject.name = "pulitori-service"
 println("=".repeat(20) + " settings.gradle.kts")
 val exclude = setOf("prj-to-exclude")
 rootProject.projectDir.listFiles()?.apply {
